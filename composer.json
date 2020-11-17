@@ -14,7 +14,7 @@
 },
 "autoload": {
 "psr-4": {
-"DemoPackages\\module\\": "/"
+"demo.vuejs\\module\\": "/"
 }
 },
 "minimum-stability": "dev"
