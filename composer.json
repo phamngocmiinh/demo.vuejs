@@ -1,0 +1,22 @@
+{
+"name": "pngocminh", "demovuejs",
+"description": "For testing",
+"keywords": [
+"pngocminh"
+],
+"authors": [
+{
+"name": "pngocminh",
+"email": "ngocp1975@gmail.com"
+}
+],
+"license": "MIT",
+"require": {
+},
+"autoload": {
+"psr-4": {
+"pngocminh\\module\\": "/"
+}
+},
+"minimum-stability": "dev"
+}
