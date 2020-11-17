@@ -1,11 +1,11 @@
 {
-"name": "pngocminh", "demo.vuejs": "For testing",
+"name": "pngocminh", "demovuejs": "For testing",
 "keywords": [
 "DemoPackages"
 ],
 "authors": [
 {
-"name": "pngocminh/demo.vuejs",
+"name": "pngocminh/demovuejs",
 "email": "ngocp1975@gmail.com"
 }
 ],
@@ -14,7 +14,7 @@
 },
 "autoload": {
 "psr-4": {
-"demo.vuejs\\module\\": "/"
+"demovuejs\\module\\": "/"
 }
 },
 "minimum-stability": "dev"
