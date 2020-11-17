@@ -1,0 +1,21 @@
+{
+"name": "phamngocminh-TT/DemoPackages", "description": "For testing",
+"keywords": [
+"DemoPackages"
+],
+"authors": [
+{
+"name": "phamngocminh-TT/DemoPackages",
+"email": "ngocp1975@gmail.com"
+}
+],
+"license": "MIT",
+"require": {
+},
+"autoload": {
+"psr-4": {
+"DemoPackages\\module\\": "/"
+}
+},
+"minimum-stability": "dev"
+}
