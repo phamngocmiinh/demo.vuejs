@@ -14,7 +14,7 @@
 },
 "autoload": {
 "psr-4": {
-"demovuejs\\module\\": "/"
+"pngocminh\\module\\": "/"
 }
 },
 "minimum-stability": "dev"
