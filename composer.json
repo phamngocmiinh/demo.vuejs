@@ -1,11 +1,11 @@
 {
-"name": "phamngocminh-TT/DemoPackages", "description": "For testing",
+"name": "pnminh-tt", "demo.vuejs": "For testing",
 "keywords": [
 "DemoPackages"
 ],
 "authors": [
 {
-"name": "phamngocminh-TT/DemoPackages",
+"name": "pnminh-tt/demo.vuejs",
 "email": "ngocp1975@gmail.com"
 }
 ],
